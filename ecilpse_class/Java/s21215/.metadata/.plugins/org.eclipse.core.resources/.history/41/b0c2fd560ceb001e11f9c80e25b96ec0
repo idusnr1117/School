@@ -1,0 +1,25 @@
+package s21215_00;
+
+public class PrintfSungjuk {
+	
+	public static void main(String[] args) {
+		
+		String name = "홍길동";
+		String hakbun = "21200";
+		
+		int kor = 98;
+		int eng = 91;
+		int mat = 100;
+		
+		int sum = kor + eng + mat;
+		
+		float avg = (float)(kor + eng + mat) / 3;
+		
+//		System.out.printf("성명   학번     국어  수학  영어  총점  평균 \n-------------------------------------------\n%s  %s   %d   %d   %d  %d  %1.1f",
+//				name, hakbun, kor, eng, mat, sum, avg);
+		System.out.println("성명   학번     국어  수학  영어  총점  평균");
+		System.out.println("-------------------------------------------");
+		System.out.printf("%s  %s   %d   %d  %d  %d  %1.1f", name, hakbun, kor, eng, mat, sum, avg);
+	}
+
+}

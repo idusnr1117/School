@@ -1,0 +1,30 @@
+package s21215_00;
+
+import java.io.*;
+
+public class S21215_01v51 {
+	
+	public static void main(String[] args) throws IOException{
+		
+		int keyCode = 0;
+		
+		while(keyCode != 113)
+		{
+			keyCode = System.in.read();
+			System.out.println("keyCode : " + keyCode);
+			
+			if(keyCode == 113)
+			{
+				break;
+			}
+			
+			keyCode = System.in.read();
+			System.out.println("keyCode : " + keyCode);
+			
+			keyCode = System.in.read();
+			System.out.println("keyCode : " + keyCode);
+		}
+		
+		
+	}
+}

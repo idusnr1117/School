@@ -1,0 +1,18 @@
+package s21215_00;
+
+public class Printf {
+	
+	public static void main(String[] args) {
+		
+		int value = 123;
+		
+		System.out.printf("상품의 가격은: %d원\n", value);
+		System.out.printf("상품의 가격은: %6d원\n", value);
+		System.out.printf("상품의 가격은: %-6d원\n", value);
+		System.out.printf("상품의 가격은: %06d원\n", value);
+		
+		double area = 3.14159 * 10 * 10;
+		
+	}
+
+}

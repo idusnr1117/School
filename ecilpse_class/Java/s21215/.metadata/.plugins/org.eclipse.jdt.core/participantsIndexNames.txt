@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3083404115.index
+\jsp2024_test2\src
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3102319041.index
+\jsp2024_test2\src
+C:\ecilpse_class\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2491368887.index
+\jsp2024_test1\src\main\java
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4026380763.index
+\jsp2024_test_copy\src
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3534632981.index
+\jsp2024_test3\src
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3952866442.index
+\jsp2024_test_v1\src\main\java
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4146899063.index
+\jsp2024_test_v1\src\main\java
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3020669969.index
+\jsp2024_test_copy\src
+C:\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1702852676.index
+\jsp2024_test3\src
+C:\ecilpse_class\Java\s21215\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2740604857.index
+\jsp2024_test1\src\main\java

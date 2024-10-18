@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;jsp2024_test_copy&apos; to &apos;jsp2024_test3&apos;" description="Rename resource &apos;jsp2024_test_copy&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/jsp2024_test_copy" name="jsp2024_test3" stamp="1715645269097" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;exam00_test2&apos;" deleteContents="false" description="Delete resource &apos;exam00_test2&apos;" element1="/exam00_test2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1715647793162"/>
+</session>

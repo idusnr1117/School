@@ -1,0 +1,17 @@
+package s21215_00;
+
+import java.io.*;
+
+public class S21215_01v51 {
+	
+	public static void main(String[] args) throws IOException{
+		
+		int keyCode;
+		
+		while(Keycode == 113){
+			
+		}
+		
+		
+	}
+}

@@ -1,0 +1,16 @@
+package s21215_00;
+
+import java.io.*;
+
+public class S21215_01v5 {
+	
+	public static void main(String[] args) throws IOException{
+		
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		
+		int keyCode = bf.readLine();
+		System.out.println("keyCode : " + keyCode);
+		
+		
+	}
+}
